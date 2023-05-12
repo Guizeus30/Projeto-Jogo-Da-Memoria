@@ -1,0 +1,10 @@
+C:\Users\guize\OneDrive\Documentos\faculdade\semestre 2\programação orienta a objeto\project\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\guize\OneDrive\Documentos\faculdade\semestre 2\programação orienta a objeto\project\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\guize\OneDrive\Documentos\faculdade\semestre 2\programação orienta a objeto\project\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\guize\OneDrive\Documentos\faculdade\semestre 2\programação orienta a objeto\project\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+C:\Users\guize\OneDrive\Documentos\faculdade\semestre 2\programação orienta a objeto\project\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Form1.resources
+C:\Users\guize\OneDrive\Documentos\faculdade\semestre 2\programação orienta a objeto\project\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\guize\OneDrive\Documentos\faculdade\semestre 2\programação orienta a objeto\project\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\guize\OneDrive\Documentos\faculdade\semestre 2\programação orienta a objeto\project\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\guize\OneDrive\Documentos\faculdade\semestre 2\programação orienta a objeto\project\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\guize\OneDrive\Documentos\faculdade\semestre 2\programação orienta a objeto\project\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
